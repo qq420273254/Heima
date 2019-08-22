@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GeneratorSqlMap" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/heima-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/heima-manager" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/heima-manager/heima-dao" charset="UTF-8" />
@@ -9,5 +10,6 @@
     <file url="file://$PROJECT_DIR$/heima-manager/heima-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/heima-manager/heima-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/heima-manager/heima-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-manager/heima-web/src/main/webapp/index.jsp" charset="UTF-8" />
   </component>
 </project>
